@@ -1,16 +1,13 @@
-# mentz_app
+# LocationFinder 
 
-A new Flutter project.
+an old job application task (Flutter)
 
-## Getting Started
+Clone:   
+Press the green "Code" button and download the zip file.   
+Unzip the file where your other projects are.   
+Open the terminal in the folder and execute the commands:   
 
-This project is a starting point for a Flutter application.
+flutter pub get  
+flutter run 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![location](https://user-images.githubusercontent.com/45995741/188276484-a505b498-fe80-49dd-a37c-3981222e66fa.gif)
